@@ -219,7 +219,7 @@ float promptFloat(const string& label) {
 }
 
 /**
- * @brief Prompts the user for a short integer, re-prompting on bad input.
+ * @brief Prompts the user for a short integer, reprompt on invalid input.
  * @param label The prompt label to display.
  * @return A valid short entered by the user.
  */
