@@ -1,0 +1,69 @@
+ARC Raiders
+Embark Studios
+FPS
+12.5
+39.99
+2026
+
+Counter-Strike 2
+Valve
+FPS
+520
+0
+2023
+
+Crimson Desert
+Pearl Abyss
+RPG
+18.3
+59.99
+2026
+
+Marvel Rivals
+NetEase Games
+FPS
+95
+0
+2024
+
+Peak
+Landfall Games
+Simulation
+22.7
+9.99
+2025
+
+PUBG: Battlegrounds
+Krafton
+FPS
+310.5
+0
+2017
+
+R.E.P.O.
+semiwork
+FPS
+44.2
+9.99
+2025
+
+Slay the Spire 2
+Mega Crit
+RPG
+31
+29.99
+2026
+
+Stardew Valley
+ConcernedApe
+Simulation
+210.7
+14.99
+2016
+
+Vampire Survivors
+poncle
+RPG
+67.8
+4.99
+2022
